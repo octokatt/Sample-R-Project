@@ -1,6 +1,6 @@
 # Hello, Internet Strangers!
 
-This project has all of my answers for the scenarios for the data science interview, both in markdown and pdf.
+This project has an example of two-to-four hours of work in R, doing a fast analysis of quantitative data.
 
 `kkennedy_scen1-4.pdf` and `kkennedy_scen1-4.md` are pdf and markdown documents of my answers, respectively.  The `.RHistory` and related files are from Scenario 4, and are included as both a just-in-case and to be organized.
 
